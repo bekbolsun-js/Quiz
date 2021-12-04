@@ -1,0 +1,47 @@
+[
+    {
+        "img": "/product1.png",
+        "name": "iphone 13",
+        "info": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias quos error quae deleniti esse est consectetur adipisicing elit. Alias quos error quae deleniti esse est"
+    },
+    {
+        "img": "/product2.jpg",
+        "name": "Samsung Galaxy 9",
+        "info": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias quos error quae deleniti esse est consectetur adipisicing elit. Alias quos error quae deleniti esse est"
+    },
+    {
+        "img": "/product3.jpg",
+        "name": "Red Me 12",
+        "info": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias quos error quae deleniti esse est consectetur adipisicing elit. Alias quos error quae deleniti esse est"
+    },
+    {
+        "img": "/product4.jpg",
+        "name": "Earphones",
+        "info": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias quos error quae deleniti esse est consectetur adipisicing elit. Alias quos error quae deleniti esse est"
+    },
+    {
+        "img": "/product5.jpeg",
+        "name": "Watches",
+        "info": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias quos error quae deleniti esse est consectetur adipisicing elit. Alias quos error quae deleniti esse est"
+    },
+    {
+        "img": "/product6.jpg",
+        "name": "Smart Watch 1",
+        "info": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias quos error quae deleniti esse est consectetur adipisicing elit. Alias quos error quae deleniti esse est"
+    },
+    {
+        "img": "/product7.jpg",
+        "name": "Smart watch 2",
+        "info": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias quos error quae deleniti esse est consectetur adipisicing elit. Alias quos error quae deleniti esse est"
+    },
+    {
+        "img": "/product8.jpg",
+        "name": "Earphones",
+        "info": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias quos error quae deleniti esse est consectetur adipisicing elit. Alias quos error quae deleniti esse est"
+    },
+    {
+        "img": "/product9.jpg",
+        "name": "Earphones pro",
+        "info": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias quos error quae deleniti esse est consectetur adipisicing elit. Alias quos error quae deleniti esse est"
+    }
+]
